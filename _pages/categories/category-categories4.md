@@ -1,9 +1,9 @@
 ---
-title: "Categories4"
+title: "Economy"
 layout: category
-permalink: /categories/categories4/
+permalink: /categories/economy/
 author_profile: true
-taxonomy: Categories4
+taxonomy: Economy
 sidebar:
   nav: "categories"
 ---

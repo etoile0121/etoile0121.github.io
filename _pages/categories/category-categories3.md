@@ -1,9 +1,9 @@
 ---
-title: "Categories3"
+title: "Science"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/science/
 author_profile: true
-taxonomy: Categories3
+taxonomy: Science
 sidebar:
   nav: "categories"
 ---

@@ -1,8 +1,8 @@
 ---
-title: "Hello!"
+title: "Hello and Welcome!"
 permalink: /about/
 layout: single
 comments: false
 ---
-
-Viva la Vida
+No worries, just living life 
+<br> Viva la Vida 🍉
